@@ -52,7 +52,6 @@ License: GPLv2 or later
 * Simple Line Icons © Sabbir Ahmed, Mariusz Laczak http://simplelineicons.com, MIT
 
 * Aqua Resizer © 2014 SyamilMj https://github.com/syamilmj/Aqua-Resizer, WTFPL
-* TGM-Plugin-Activation © Thomas Griffin, Gary Jones, Juliette Reinders Folmer http://tgmpluginactivation.com, GPL
 
 = Images =
 * CC0 - https://stocksnap.io/photo/ONM8BAJSCK
@@ -62,7 +61,7 @@ License: GPLv2 or later
 
 = 1.0.1 =
 - [Fix]: Bug fix and compatibility improvement with CF7 plugin
-- [Fix]: An issue with displaying changelog in Phlox dashboard fixed.
+- [Fix]: An issue with displaying changelog in dashboard fixed.
 
 = 1.0.5 =
 - [Fix]: Minor bugs fixed.
