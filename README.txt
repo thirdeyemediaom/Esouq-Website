@@ -1,35 +1,13 @@
-=== Phlox PRO ===
-Contributors: averta, averta_support
+=== Esouq ===
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, custom-menu, custom-colors, editor-style, featured-images, featured-image-header, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, translation-ready, blog, e-commerce, portfolio, threaded-comments, translation-ready
 Requires PHP: 5.4
 Requires at least: 4.6
 Tested up to: 6.2.0
 Stable tag: 5.15.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-
-
-
-== Copyright ==
-
-= Ownership and licensing =
-
-Phlox WordPress Theme, Copyright 2016, 2017 averta
-Phlox is distributed under the terms of the GNU GPL
-
-This theme is free software: except as may be stated below (if at all), you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
-
-You can contact us at wordpress@averta.net
 
 
 = Bundled resources =
-
-Phlox bundles the following third-party resources:
 
 * HTML5 Boilerplate © 2017 Mathias Bynens https://html5boilerplate.com/, MIT
 * Isotope © Metafizzy http://isotope.metafizzy.co, MIT/GPL
