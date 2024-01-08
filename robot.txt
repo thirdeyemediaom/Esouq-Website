@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /folder1/
+Disallow: /private/
+Disallow: /temporary-files/
+
+User-agent: Googlebot
+Disallow: /no-google/
+Allow: /google-specific-folder/
+
+User-agent: Bingbot
+Disallow: /no-bing/
+Allow: /bing-specific-folder/
+
+Sitemap: https://www.esouq.om/
+Crawl-delay: 83
+
+User-agent: *
+Disallow: /folder2/subfolder1/
+Allow: /folder2/subfolder2/
